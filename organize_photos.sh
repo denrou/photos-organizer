@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cd /usr/src/photos
+
 PATH_PHOTOS="À trier"
 echo -n "$(date '+%Y-%m-%d %H:%M:%S') - "
 echo "Start updating photos"
